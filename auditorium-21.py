@@ -1,5 +1,3 @@
-Temporary placeholder
-
 # Write your code below this line 👇
 n = int(input())
 number = n
